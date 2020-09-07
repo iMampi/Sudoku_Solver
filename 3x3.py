@@ -15,6 +15,7 @@ class square:
                 break
 # TODO : corrigez les fautes d'orthographe
 # TODO : changer les liste en generator
+# TODO : change 2 to 3 and 4 to 9
 class grid:
     def __init__(self, sq1, sq2, sq3, sq4,sq5, sq6, sq7, sq8, sq9):
 
