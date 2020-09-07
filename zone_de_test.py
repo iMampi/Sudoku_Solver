@@ -12,7 +12,8 @@ class square:
             if any([nb not in range(0, 5), str(nb).isalpha()]):
                 print("one or more elements are incorrects" + str(self.list_all))
                 break
-
+# TODO : corrigez les fautes d'orthographe
+# TODO : changer les liste en generator
 class grid:
     def __init__(self, sq1, sq2, sq3, sq4):
 
